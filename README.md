@@ -1,16 +1,16 @@
-# nash_dashboard
+# Nash Dashboard
 
-A new Flutter project.
+A dashboard for the Nash application.
 
-## Getting Started
+Made using Flutter, Nodejs and Firebase.
 
-This project is a starting point for a Flutter application.
+Web: https://nashdashboard.com
 
-A few resources to get you started if this is your first Flutter project:
+IOS: Coming soon
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Android: Coming soon
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/52072762/133248815-db1c1a50-c28c-405d-b399-ac8e6e3e3ef9.png)
+![image](https://user-images.githubusercontent.com/52072762/133248893-bc389876-99a3-4c12-9f84-a7fb1c57f367.png)
+![image](https://user-images.githubusercontent.com/52072762/133248983-f7bc9cfe-0836-4bdd-99e2-717ddad386fb.png)
+![image](https://user-images.githubusercontent.com/52072762/133249103-313ec5ad-a160-448e-b2be-b3496da634c7.png)
