@@ -1,0 +1,30 @@
+<!-- embed the script -->
+<script
+  src="https://unpkg.com/@nash-io/ramp-widget-sdk@latest/dist/ramp-widget-sdk.umd.js"
+  async
+></script>
+
+<body>
+  <!-- initialize -->
+  <script>
+    function initializeNash() {
+      const nash = new NashRamp({
+        base: "eur",
+        destination: "0x0000000000000000000000000000000000000000",
+        env: "PRODUCTION",
+        redirect: "https://example.com",
+        referrer: "MyApp",
+        target: "aave",
+      });
+      nash.init({
+        width: "350px",
+        height: "480px",
+      });
+    }
+    window.onload = function () {
+      initializeNash();
+    };
+  </script>
+  <!-- HTML target -->
+  <div data-nash-fiat-ramp-widget />
+</body>
